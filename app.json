@@ -1,0 +1,16 @@
+{
+  "name": "dungeon-and-derps",
+  "description": "An NPC tracking site for tabletop roleplaying games",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
